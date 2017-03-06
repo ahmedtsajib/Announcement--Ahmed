@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"About",
+				"About"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"nu",
+				"Number"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"vi",
+				"video\tTag"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ba",
+				"backface-visibility"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"text",
+				"text-decoration-line"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fle",
+				"flex-flow"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"backgroud-c",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"bod",
+				"border-style"
+			],
+			[
+				"r",
+				"Rails"
+			],
+			[
+				"scr",
+				"source\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"text-c",
+				"text-decoration-color"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"te",
+				"text-align-last"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"test",
+				"test1"
+			],
+			[
+				"ge",
+				"gets"
+			],
+			[
+				"g",
+				"grade"
+			],
+			[
+				"av",
+				"average2"
+			],
+			[
+				"aver",
+				"average1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/student_14/Desktop/Announcement- Ahmed/the boss baby.html",
+		"/Users/student_14/Desktop/2.3.html",
+		"/Users/student_14/Desktop/flex.html",
+		"/Users/student_14/Desktop/nav.html",
+		"/Users/student_14/Desktop/drop.html",
+		"/Users/student_14/Desktop/unit 2/tag.html",
+		"/Users/student_14/Desktop/Announcement- Ahmed/main.css",
+		"/Users/student_14/Desktop/class3.css",
+		"/Users/student_14/Desktop/class3.html",
+		"/Users/student_14/Desktop/index.css",
+		"/Users/student_14/Desktop/first html/index.html",
+		"/Users/student_14/Desktop/index.html",
+		"/Users/student_14/Desktop/first html/div class.html",
+		"/Users/student_14/Desktop/first html/index",
+		"/Users/student_14/Desktop/list.html",
+		"/Users/student_14/Desktop/cal.html",
+		"/Users/student_14/Desktop/table.html",
+		"/Users/student_14/Desktop/resume.html",
+		"/Users/student_14/Desktop/test.html",
+		"/Users/student_14/Desktop/html.html",
+		"/Users/student_14/Desktop/html intro.html",
+		"/Users/student_14/Desktop/array.js",
+		"/Users/student_14/Desktop/function.js",
+		"/Users/student_14/Desktop/day4.js",
+		"/Users/student_14/Desktop/dayfour.js",
+		"/Users/student_14/Desktop/day4-1.js",
+		"/Users/student_14/Desktop/daythree.js",
+		"/Users/student_14/Desktop/day3cw.js",
+		"/Users/student_14/Desktop/day3.js",
+		"/Users/student_14/Desktop/D2hw.js",
+		"/Users/student_14/Documents/avg.js",
+		"/Users/student_14/Desktop/day 2/test.js",
+		"/Users/student_14/Desktop/day 2/test 2.js",
+		"/Users/student_14/Desktop/test2.js",
+		"/Users/student_14/Desktop/test 2",
+		"/Users/student_14/Desktop/test.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
